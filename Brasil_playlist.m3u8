@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="11185" tvg-country="united states of america",Comet TV Geo
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6221600,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,NAME="1080"
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
